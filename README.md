@@ -8,7 +8,6 @@ It’s simple, powerful, and built to be the foundation for more advanced exploi
 ## ✨ Features
 - 🚷 **Speed Hack Detection** – Instantly flags and kicks players moving faster than allowed
 - ⚙️ **Easy Configuration** – Just edit a single line to tweak speed limits
-- 🔗 **Optional Webhook Logging** – Send alerts to your Discord server *(coming soon)*
 - 🧱 **Modular Design** – Add more checks like fly/no-clip detection with ease
 - 🧠 **Beginner Friendly** – Great for learning Roblox security basics
 
